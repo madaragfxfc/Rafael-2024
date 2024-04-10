@@ -43,3 +43,10 @@ body{
     .esola-titulo{
         padding: 20px 0;
     }
+
+    .estudante-imagem{
+        width: 120px;
+    }
+    .estudante-icone{
+        width: 24px;
+    }
